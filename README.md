@@ -26,5 +26,5 @@ Stanislav is a Minecraft Spigot Plugin for Minecraft 1.16.1 Servers.
 
 ## Getting Standa
 First, create a server based on the Bukkit API (Spigot, PaperMC, CraftBukkit...). If you don't know how to do that, well... fuck you...  
-Once the server works, make sure it's stopped, and copy **Stanislav/builds/Stanilav.jar** to your **plugins** folder.  
+Once the server works, make sure it's stopped, and copy **Stanilav.jar** to your **plugins** folder.  
 If you want to modify the code, download IntelliJ, Eclipse or any other java IDE. Create a new project (preferably same name as source folder: *Stanislav*), and copy the contents from **Stanislav/** to your project's root. You will probably need to add a Spigot API 1.16.1 dependency to use the commands (can be found in **Spigot APIs/**). Modify the code, and build it into a **.jar** file. Put the build in your plugins folder and enjoy your new plugin!
