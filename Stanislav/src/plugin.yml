@@ -1,0 +1,32 @@
+name: Stanislav
+author: Jozo
+version: 1.0
+
+main: com.jozo.stanislav.Stanislav
+api-version: 1.16
+
+commands:
+  hub:
+    description: Teleports player to the hub.
+    usage: /<command>
+  sethub:
+    description: Sets hub to player's current location.
+    usage: /<command>
+  home:
+    description: Teleports player to their home.
+    usage: /<command>
+  sethome:
+    description: Sets home to player's current location.
+    usage: /<command>
+  s:
+    description: Sets player's gamemode to survival.
+    usage: /<command>
+  c:
+    description: Sets player's gamemode to creative.
+    usage: /<command>
+  standa:
+    description: Lists all plugin commands.
+    usage: /<command>
+  recipes:
+    description: Lists all plugin recipes.
+    usage: /<command>
