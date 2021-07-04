@@ -1,3 +1,6 @@
+# Archived
+Standa is gone forever.
+
 # Stanislav
 Stanislav is a Minecraft Spigot Plugin for Minecraft 1.16.1 Servers.
 
